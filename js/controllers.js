@@ -1,4 +1,4 @@
-App.PizzaController = Ember.ObjectController.extend({
+App.FoodController = Ember.ObjectController.extend({
     actions: {
         addToCart: function() {
             var self = this;
