@@ -17,7 +17,7 @@ App.FoodsRoute = Ember.Route.extend({
 
 App.FoodRoute = Ember.Route.extend({
     model: function(params) {
-        return this.store.find('Food', params.pizza_id);
+        return this.store.find('Food', params.food_id);
     }
 });
 
