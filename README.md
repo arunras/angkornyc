@@ -1,7 +1,6 @@
 # AngkorNYC
 > App that allows users to order foods online from a restaurant which is built based on Ember.js
 >
-> [**Demo**](https://arunras.github.io/angkornyc/)
 ## Setting Up
 **Install Ember**
 ```bash
@@ -26,14 +25,14 @@ $ ember server
 
 
 **Home**
-![App](https://github.com/arunras/ankornyc/raw/master/public/imgs/food.png "Food")
+![App](https://github.com/arunras/angkornyc/blob/master/public/imgs/food.png "Food")
 
 **Home**
-![App](https://github.com/arunras/ankornyc/raw/master/public/imgs/food_detail.png "Food Detail")
+![App](https://github.com/arunras/angkornyc/blob/master/public/imgs/food_detail.png "Food Detail")
 
 **Home**
-![App](https://github.com/arunras/ankornyc/raw/master/public/imgs/cart.png "Cart")
+![App](https://github.com/arunras/angkornyc/blob/master/public/imgs/cart.png "Cart")
 
 **Home**
-![App](https://github.com/arunras/ankornyc/raw/master/public/imgs/history.png "History")
+![App](https://github.com/arunras/angkornyc/blob/master/public/imgs/history.png "History")
 
