@@ -24,15 +24,15 @@ $ ember server
 ![App](https://github.com/arunras/angkornyc/blob/master/public/imgs/home.png "Home")
 
 
-**Home**
+**Food**
 ![App](https://github.com/arunras/angkornyc/blob/master/public/imgs/food.png "Food")
 
-**Home**
+**Food detail**
 ![App](https://github.com/arunras/angkornyc/blob/master/public/imgs/food_detail.png "Food Detail")
 
-**Home**
+**Cart**
 ![App](https://github.com/arunras/angkornyc/blob/master/public/imgs/cart.png "Cart")
 
-**Home**
+**History**
 ![App](https://github.com/arunras/angkornyc/blob/master/public/imgs/history.png "History")
 
