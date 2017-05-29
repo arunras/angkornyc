@@ -1,4 +1,13 @@
 App.Router.map(function() {
+    // domain/food
+    this.route('food');
+});
+
+
+
+
+
+App.Router.map(function() {
     // put your routes here
     this.route('foods');
 
