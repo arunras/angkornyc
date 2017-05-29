@@ -22,7 +22,7 @@ $ ember server
 
 ## App Screenshot 
 **Home**
-![App](https://github.com/arunras/ankornyc/raw/master/public/imgs/home.png "Home")
+![App](https://github.com/arunras/angkornyc/blob/master/public/imgs/home.png "Home")
 
 
 **Home**
